@@ -22,3 +22,5 @@ Thumbs.db
 *.ckpt
 
 data/
+
+*.idea
